@@ -1,0 +1,19 @@
+{
+  "name": "demo-acr",
+  "version": "1.0.0",
+  "description": "A simple demo for Google container registry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab-personal:gitlab-series/gitlab-tutorial-series.git"
+  },
+  "author": "Foyzur Rahman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.5.0"
+  }
+}
